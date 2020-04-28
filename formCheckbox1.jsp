@@ -10,7 +10,7 @@
   <% String [] uHobby = requsest.getParameterValues("hobby");%>
   <h4>
   <%
-  if(uHobby == null){ out.println("입내용없음");
+  if(uHobby == null){ out.println("입력내용없음");
   } else {
     for(int i=0; i<uHobby.length; i++){
         out.println(uHobby[i]);
