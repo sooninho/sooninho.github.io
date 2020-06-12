@@ -22,7 +22,7 @@ section, article,aside,footer
   border:0.1em solid gray; width: 92.9em; height: auto; float: left;
 }
 #title_1{  font-size: 2.5em;margin: 0em 0em 0.2em 1em;}
-#title_2{  font-size: 2em; text-align: right; margin-right: 3em}
+#title_2{  font-size: 2em; text-align: right; margin-right: 0em}
 #contents_Rect {
   border:0.2em solid gray; border-style: inset; border-color: green;
   width: 78em; height: 40.8em;float: left;
